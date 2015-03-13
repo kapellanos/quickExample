@@ -7,3 +7,10 @@
 //
 
 import Foundation
+import Quick
+import Nimble
+
+class TryMe: QuickSpec
+{
+    
+}
